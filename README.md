@@ -4,6 +4,8 @@
 
 ### Led setup
 
+![Led Setup](https://raw.githubusercontent.com/alter-ego/kudoo/develop/docs/led_setup.jpg)
+
 To turn ON a LED:
 
 ```kotlin
